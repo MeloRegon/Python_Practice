@@ -102,7 +102,8 @@ python filename.py
 You can also run all scripts directly in PyCharm, VSCode, or any editor of your choice.
 ___
 
-## 👨‍💻 Author
+## 🧑‍💻 Author
 
 This project is part of my learning journey as a Python developer.  
-[![GitHub](https://img.shields.io/badge/GitHub-MeloRegon-181717?style=flat&logo=github)](https://github.com/MeloRegon)
+[![GitHub](https://img.shields.io/badge/GitHub-MeloRegon-181717?logo=github)](https://github.com/MeloRegon)  
+[![Telegram](https://img.shields.io/badge/Telegram-@EgorMerhub-2CA5E0?logo=telegram)](https://t.me/EgorMerhub)
